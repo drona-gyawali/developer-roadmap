@@ -1,6 +1,6 @@
 # Context Manager
 
-Context managers are a contruct in Python that allows you to set up context for a block of code, and then automatically clean up or relase resources when the block is exited. It is most commonly used with the `with` statement.
+Context managers are a construct in Python that allows you to set up context for a block of code, and then automatically clean up or relase resources when the block is exited. It is most commonly used with the `with` statement.
 
 Visit the following resources to learn more:
 
